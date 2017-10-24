@@ -12,6 +12,7 @@ Open and modern framework for building user interfaces.
 </p>
 
 [中文README](README.zh-CN.md)
+[百度](https://wwww.baidu.com)
 
 ## Omi
 
